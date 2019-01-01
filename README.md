@@ -1,5 +1,5 @@
 # docker-compose-simple-project
-Based on material I learned in **Udemy: Docker and Kubernetes: The Complete Guide - Section 5: Docker Compose with Multiple Local Containers**
+Learning: Simple project with basic use of **docker-compose** to control Docker containers. This project formed part of an online course on how to use Docker.
 
 ## Overview
 
