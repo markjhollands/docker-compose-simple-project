@@ -1,5 +1,7 @@
 # docker-compose-simple-project
-Learning: Simple project with basic use of **docker-compose** to control Docker containers. This project formed part of an online course on how to use Docker.
+Learning: Simple project with basic use of **docker-compose** to control Docker containers.
+
+This project formed part of an online course on how to use Docker.
 
 ## Overview
 
